@@ -11,5 +11,5 @@ include_directories(
         ${catkin_INCLUDE_DIRS}
 )
 
-add_executable(realsense_slam_tsf src/camera_publisher.cpp)
+add_executable(realsense_slam_tsf src/usb_camera_publisher.cpp)
 target_link_libraries(realsense_slam_tsf ${catkin_LIBRARIES})
