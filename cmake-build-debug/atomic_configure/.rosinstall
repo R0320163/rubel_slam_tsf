@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/rubel/catkin_ws/src/realsense_slam_tsf/cmake-build-debug/devel/setup.sh

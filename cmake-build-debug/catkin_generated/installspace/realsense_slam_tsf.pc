@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: realsense_slam_tsf
+Description: Description of realsense_slam_tsf
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
